@@ -1,4 +1,6 @@
 {
   "item.rubymod.ruby": "Ruby",
-  "item.rubymod.raw_ruby": "Raw Ruby"
+  "item.rubymod.raw_ruby": "Raw Ruby",
+
+  "creative.tutorial_tab": "Ruby Items Tab"
 }
