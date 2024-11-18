@@ -13,8 +13,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.romit.rubymod.block.ModBlocks;
-import net.romit.rubymod.items.ModCreativeModTabs;
-import net.romit.rubymod.items.ModItems;
+import net.romit.rubymod.item.ModCreativeModTabs;
+import net.romit.rubymod.item.ModItems;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file

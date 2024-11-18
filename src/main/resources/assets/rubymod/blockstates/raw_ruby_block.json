@@ -1,5 +1,5 @@
 {
-  "variants" : {
+  "variants": {
     "": {
       "model": "rubymod:block/raw_ruby_block"
     }
