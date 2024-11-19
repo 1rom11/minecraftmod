@@ -2,7 +2,7 @@
   "item.rubymod.ruby": "Ruby",
   "item.rubymod.raw_ruby": "Raw Ruby",
   "item.rubymod.metal_detector": "Metal Detector",
-  "item.rubymod.ruby_apple": "Ruby Apple",
+  "item.rubymod.ruby_carrot": "Ruby Carrot",
 
   "block.rubymod.ruby_block" : "Block of Ruby",
   "block.rubymod.raw_ruby_block" : "Block of Raw Ruby",
@@ -10,6 +10,8 @@
   "block.rubymod.deepslate_ruby_ore" : "Deepslate Ruby Ore",
   "block.rubymod.end_stone_ruby_ore" : "Endstone Ruby Ore",
   "block.rubymod.nether_ruby_ore" : "Nether Based Ruby Ore",
+
+  "tooltip.rubymod.metal_detector.tooltip" : "Finds ores and valubles underground.",
 
   "creative.tutorial_tab": "Ruby Items Tab"
 }
