@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "tutorialmod:sapphire_block"
+      "item": "rubymod:ruby_block"
     }
   ],
   "result": {
-    "item": "tutorialmod:sapphire",
+    "item": "rubymod:ruby",
     "count": 9
   }
 }

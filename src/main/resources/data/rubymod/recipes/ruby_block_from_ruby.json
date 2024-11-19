@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "tutorialmod:sapphire"
+      "item": "rubymod:ruby"
     }
   },
   "result": {
-    "item": "tutorialmod:sapphire_block"
+    "item": "rubymod:ruby_block"
   }
 }
