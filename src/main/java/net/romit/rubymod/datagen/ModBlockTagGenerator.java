@@ -44,6 +44,13 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
         this.tag(Tags.Blocks.NEEDS_NETHERITE_TOOL)
                 .add(ModBlocks.END_STONE_RUBY_ORE.get());
 
+        this.tag(Tags.Blocks.FENCES)
+                .add(ModBlocks.RUBY_FENCE.get());
+        this.tag(Tags.Blocks.FENCES)
+                .add(ModBlocks.RUBY_FENCE_GATE.get());
+        this.tag(Tags.Blocks.FENCES)
+                .add(ModBlocks.RUBY_WALL.get());
+
 
     }
 }

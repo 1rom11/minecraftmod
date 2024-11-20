@@ -11,7 +11,20 @@
   "block.rubymod.end_stone_ruby_ore" : "Endstone Ruby Ore",
   "block.rubymod.nether_ruby_ore" : "Nether Based Ruby Ore",
 
-  "tooltip.rubymod.metal_detector.tooltip" : "Finds ores and valubles underground.",
+  "block.rubymod.ruby_stairs" : "Ruby Stair",
+  "block.rubymod.ruby_slab" : "Ruby Slab",
+
+  "block.rubymod.ruby_button" : "Ruby Button",
+  "block.rubymod.ruby_pressure_plate" : "Ruby Pressure Plate",
+
+  "block.rubymod.ruby_fence" : "Ruby Fence",
+  "block.rubymod.ruby_gate" : "Ruby Gate",
+  "block.rubymod.ruby_wall" : "Ruby Wall",
+
+  "block.rubymod.ruby_door" : "Ruby Door",
+  "block.rubymod.ruby_trapdoor" : "Ruby Trapdoor",
+
+  "tooltip.rubymod.metal_detector.tooltip" : "Finds ores and valuables underground.",
 
   "creative.tutorial_tab": "Ruby Items Tab"
 }
