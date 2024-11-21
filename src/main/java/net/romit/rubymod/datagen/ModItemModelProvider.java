@@ -44,6 +44,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         simpleItem(ModItems.RUBY);
         simpleItem(ModItems.RAW_RUBY);
+        simpleItem(ModItems.RUBY_NUGGET);
 
         simpleItem(ModItems.METAL_DETECTOR);
         simpleItem(ModItems.RUBY_CARROT);
