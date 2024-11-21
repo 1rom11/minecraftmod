@@ -25,6 +25,17 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
                         pOutput.accept(ModItems.RUBY_CARROT.get());
 
+                        pOutput.accept(ModItems.RUBY_SWORD.get());
+                        pOutput.accept(ModItems.RUBY_HOE.get());
+                        pOutput.accept(ModItems.RUBY_AXE.get());
+                        pOutput.accept(ModItems.RUBY_PICKAXE.get());
+                        pOutput.accept(ModItems.RUBY_SHOVEL.get());
+
+                        pOutput.accept(ModItems.RUBY_HELMET.get());
+                        pOutput.accept(ModItems.RUBY_CHESTPLATE.get());
+                        pOutput.accept(ModItems.RUBY_LEGGINGS.get());
+                        pOutput.accept(ModItems.RUBY_BOOTS.get());
+
 
                         pOutput.accept(ModBlocks.RAW_RUBY_BLOCK.get());
                         pOutput.accept(ModBlocks.RUBY_BLOCK.get());
