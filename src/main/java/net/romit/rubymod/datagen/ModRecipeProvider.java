@@ -104,7 +104,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .save(pWriter);
         ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, ModItems.RUBY_PICKAXE.get())
                 .pattern("###")
-                .pattern(" # ")
+                .pattern(" / ")
                 .pattern(" / ")
                 .define('#', ModItems.RUBY.get())
                 .define('/', Items.STICK.asItem())
