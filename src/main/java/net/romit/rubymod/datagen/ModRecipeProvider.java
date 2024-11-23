@@ -1,6 +1,7 @@
 package net.romit.rubymod.datagen;
 
 import net.minecraft.world.item.Items;
+import net.minecraft.world.level.block.Blocks;
 import net.romit.rubymod.RubyMod;
 import net.romit.rubymod.block.ModBlocks;
 import net.romit.rubymod.item.ModItems;
@@ -122,6 +123,17 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .pattern("/ ")
                 .pattern("/ ")
                 .define('#', ModItems.RUBY.get())
+                .define('/', Items.STICK.asItem())
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY.get()))
+                .save(pWriter);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, ModItems.METAL_DETECTOR.get())
+                .pattern("#|#")
+                .pattern("#*#")
+                .pattern(" / ")
+                .define('#', ModItems.RUBY.get())
+                .define('|', Blocks.LIGHTNING_ROD)
+                .define('*', Items.DIAMOND.asItem())
                 .define('/', Items.STICK.asItem())
                 .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY.get()))
                 .save(pWriter);

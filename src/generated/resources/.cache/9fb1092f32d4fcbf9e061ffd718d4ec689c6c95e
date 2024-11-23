@@ -1,4 +1,4 @@
-// 1.20	2024-11-21T18:37:09.1723474	Recipes
+// 1.20.1	2024-11-22T20:59:52.1184368	Recipes
 4b2ce5a915a17895855ce4e9e18d289232811e83 data/rubymod/advancements/recipes/building_blocks/ruby_block.json
 656f7d88700cebbfcdeea26629ac396e56d7c7aa data/rubymod/advancements/recipes/building_blocks/ruby_button.json
 938cf2d7921d33e49a43c366e4fa33e0bb2e5b0d data/rubymod/advancements/recipes/building_blocks/ruby_slab.json
@@ -19,11 +19,13 @@ efb51760beee2ed6e91635cfcb7da7c879ca248e data/rubymod/advancements/recipes/misc/
 ae08e7c95818dcd15196d7f9f2c964b0b6786e9e data/rubymod/advancements/recipes/misc/ruby_from_smelting_raw_ruby.json
 95b6b86b3cd710f3a2667855bb6dea4e68c67734 data/rubymod/advancements/recipes/misc/ruby_from_smelting_ruby_ore.json
 79fd48719f431404a300e1a498dde506c3659d0c data/rubymod/advancements/recipes/misc/ruby_nugget.json
+e1d645c30b4cfdb18bbbe32a3cddb300bb259606 data/rubymod/advancements/recipes/tools/metal_detector.json
 c40cfdd7ffc475a7b4c8042fb862be4206dbd39f data/rubymod/advancements/recipes/tools/ruby_axe.json
 376d28e6e70ac5fb9001b5639e555138e4090c65 data/rubymod/advancements/recipes/tools/ruby_hoe.json
 7a07a1f964dbaa3113cc665d91d238f101f30347 data/rubymod/advancements/recipes/tools/ruby_pickaxe.json
 a9abe05c2b54104128cba0b4004fedf91b103fce data/rubymod/advancements/recipes/tools/ruby_shovel.json
 00ba802c169fc69681a0a98406e0493b2f818895 data/rubymod/advancements/recipes/tools/ruby_sword.json
+873e724ca19b5de1ba645188608cfb199b99474b data/rubymod/recipes/metal_detector.json
 559787c1c6c69dc51e819d65d5f81212d1e7043c data/rubymod/recipes/ruby.json
 69d4585efef0e192368d395be6799b3c3ce9b005 data/rubymod/recipes/ruby_axe.json
 b7025c0d31b6af319875fbf6e6f0d0c913d596cb data/rubymod/recipes/ruby_block.json
