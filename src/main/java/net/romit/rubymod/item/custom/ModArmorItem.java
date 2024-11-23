@@ -15,7 +15,7 @@ import java.util.Map;
 public class ModArmorItem extends ArmorItem {
     private static final Map<ArmorMaterial, MobEffectInstance> MATERIAL_TO_EFFECT_MAP =
             (new ImmutableMap.Builder<ArmorMaterial, MobEffectInstance>())
-                    .put(ModArmorMaterials.RUBY, new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 200, 2,
+                    .put(ModArmorMaterials.RUBY, new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 200, 1,
                             false,false, true)).build();
 
     public ModArmorItem(ArmorMaterial pMaterial, Type pType, Properties pProperties) {
