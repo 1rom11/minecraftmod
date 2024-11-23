@@ -7,6 +7,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.romit.rubymod.RubyMod;
 import net.romit.rubymod.item.custom.MetalDetectorItem;
+import net.romit.rubymod.item.custom.ModArmorItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -34,7 +35,7 @@ public class ModItems {
             () -> new AxeItem(ModToolTiers.RUBY, 5, 1, new Item.Properties()));
 
     public static final RegistryObject<Item> RUBY_HELMET = ITEMS.register("ruby_helmet",
-            () -> new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.HELMET, new Item.Properties()));
+            () -> new ModArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.HELMET, new Item.Properties()));
     public static final RegistryObject<Item> RUBY_CHESTPLATE = ITEMS.register("ruby_chestplate",
             () -> new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.CHESTPLATE, new Item.Properties()));
     public static final RegistryObject<Item> RUBY_LEGGINGS = ITEMS.register("ruby_leggings",

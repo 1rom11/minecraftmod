@@ -1,0 +1,10 @@
+// 1.20	2024-11-20T22:49:28.9043002	Tags for minecraft:block mod id rubymod
+e19a5e1cd283c12798e5a509156d510122d6327b data/forge/tags/blocks/needs_netherite_tool.json
+49b3b390109a49965cf0e5f5d65d4dc1c4d1f123 data/minecraft/tags/blocks/fences.json
+53b74b35a14caccc304c05c7767f3cbae82cf7f1 data/minecraft/tags/blocks/fence_gates.json
+9baab3454b8dd72ed598ac6a8daebc3c5ddc636c data/minecraft/tags/blocks/mineable/pickaxe.json
+9ec70e8ad6c6ade60b3d655b86687a76454112fd data/minecraft/tags/blocks/needs_diamond_tool.json
+4cdc417d02aac54f9b465bace16987488928f037 data/minecraft/tags/blocks/needs_iron_tool.json
+f037caba2d96650a0e471ea6b12575645a815e31 data/minecraft/tags/blocks/needs_stone_tool.json
+5412e7de451c2da9b13f5f00aa4fa5e882501805 data/minecraft/tags/blocks/walls.json
+958405b7544741102caae082ede6f4f12208d9bf data/rubymod/tags/blocks/metal_detector_valuables.json
