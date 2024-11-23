@@ -1,4 +1,4 @@
-// 1.20.1	2024-11-22T20:59:52.1184368	Recipes
+// 1.20.1	2024-11-22T22:09:54.5498156	Recipes
 4b2ce5a915a17895855ce4e9e18d289232811e83 data/rubymod/advancements/recipes/building_blocks/ruby_block.json
 656f7d88700cebbfcdeea26629ac396e56d7c7aa data/rubymod/advancements/recipes/building_blocks/ruby_button.json
 938cf2d7921d33e49a43c366e4fa33e0bb2e5b0d data/rubymod/advancements/recipes/building_blocks/ruby_slab.json
@@ -46,7 +46,7 @@ b623f5e58a71aa494be88d5dcfe80a26ca468996 data/rubymod/recipes/ruby_from_smelting
 be6a6ceba9e09ff098b4dc1f7bb83cd33c6f7867 data/rubymod/recipes/ruby_hoe.json
 c5d897984c55d60f4038ed35a88b9c843eedbbe5 data/rubymod/recipes/ruby_leggings.json
 98c232b758b2293eab97dc6e4cbb9c4f19ee3211 data/rubymod/recipes/ruby_nugget.json
-34951818f8f6e3326259334d472e8b80194792fa data/rubymod/recipes/ruby_pickaxe.json
+72c9ee1b9735acb9d50120620058391251e2078b data/rubymod/recipes/ruby_pickaxe.json
 1677c564678435733f5efd8f820e0f666fc9eb6d data/rubymod/recipes/ruby_shovel.json
 6b3e47654a6f6394cf96d093bcd63a765051bb91 data/rubymod/recipes/ruby_slab.json
 fd2dfd29cec49e73a2ba518ab3bc7fbccb20187e data/rubymod/recipes/ruby_stairs.json
